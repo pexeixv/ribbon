@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "tw": "tailwindcss -i css/tailwind.css -o css/pex.css",
+        "tww": "tailwindcss -i css/tailwind.css -o css/pex.css -w",
+        "twm": "tailwindcss -i css/tailwind.css -o css/pex.css -m"
+    }
+}
