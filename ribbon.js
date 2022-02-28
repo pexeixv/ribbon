@@ -1,7 +1,7 @@
 'use strict'
 var div = document.createElement('div')
 div.innerHTML += `
-    <link rel="stylesheet" href="//an.gavinpereira.in/css/pex.css">
+    <link rel="stylesheet" href="//r.gavinpereira.in/css/pex.css">
     <a href="//gavinpereira.in" target="_blank"
     class="pex-bottom-5 pex-right-0 pex-flex pex-items-center pex-bg-white pex-rounded-l-full pex-z-40 pex-fixed pex-p-3 pex-shadow hover:pex-shadow-lg pex-transition-opacity pex-group pex-no-underline pex-font-sans text-black visited:text-black focus:text-black">
     <img src="//gavinpereira.in/logo" alt="Gavin Pereira logo" class="pex-h-8">
