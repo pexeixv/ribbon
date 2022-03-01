@@ -1,0 +1,24 @@
+{
+    "cells": [
+        {
+            "language": "typescript",
+            "source": [
+                "const defaults = {\r\n    mode: 'light',\r\n    position: 'bottom-right'\r\n}\r\n\r\n\r\nconst override = {\r\n    mode: 'dark'\r\n}\r\n\r\n\r\nconst merge = {\r\n    ...defaults, ...override\r\n}\r\n\r\nconsole.log(merge)\r\n"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "{ mode: 'light', position: 'bottom-right' }",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

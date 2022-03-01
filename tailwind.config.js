@@ -1,7 +1,7 @@
 module.exports = {
   prefix: 'pex-',
   content: [
-    'pex.html'
+    'html.html'
   ],
   theme: {
     extend: {},
