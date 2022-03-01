@@ -1,6 +1,6 @@
 # Ribbon
 
-## Details
+## Info
 
 - Aim was to create a small library that can do some sort of DOM manipulation when the CDN script is included.
 - Add the CDN script in any HTML file and get a ribbon linking to [gavinpereira.in](https://gavinpereira.in)
