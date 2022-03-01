@@ -5,5 +5,5 @@
 Add anywhere in HTML
 
 ```html
-<script src="//ribbon.gavinpereira.in" defer></script>
+<script src="//r.gavinpereira.in" defer></script>
 ```
